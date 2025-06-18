@@ -199,8 +199,8 @@ margin-top: 42px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-
 }
+
 .collapsible:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
@@ -213,8 +213,11 @@ margin-top: 42px;
 }
 
 .ytvideo{
-    justify-content: center;
-    display: flex;
-    width: 630px;
-    height: 472px;
+   width: 50vw;
+   height: 40vw;;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* Optionally, you can set a max-width if needed */
+    /* max-width: 100%; */
 }
