@@ -90,7 +90,7 @@ margin-top: 42px;
     background-color: #f3e5e5;
     margin-top: 15px;
     overflow: hidden;
-    height: 400px;
+    height: 700px;
     margin-bottom: 0;}
  .tabletext {
     border: 2px solid #f3e5e5;
@@ -101,11 +101,11 @@ margin-top: 42px;
     margin-top: 0px;
     text-align: left;}   
    
-.shoppic {
+.rejsepic {
     width: 70%;
     height: auto;
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 1000px;
+    max-height: 1000px;
     float: center;
     margin-right: 10px;
     padding: none;
@@ -121,7 +121,7 @@ margin-top: 42px;
 table {
     border-collapse: separate;
     border-spacing: 15px;
-    max-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 600px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
