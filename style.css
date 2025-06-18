@@ -153,7 +153,7 @@ margin-top: 42px;
 
 /* Style the collapsible content. Note: hidden by default */
 .content {
-  padding: 0 18px;
+  padding: 18px;
   background-color: #ededed;
   max-height: 0;
   overflow: hidden;
@@ -161,14 +161,14 @@ margin-top: 42px;
 }
 
 .collapsible:after {
-  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  content: '\02795'; /* Unicode for plus */
   font-size: 13px;
   float: right;
   margin-left: 5px;
 }
 
 .active:after {
-  content: "\2796"; /* Unicode character for "minus" sign (-) */
+  content: "\2796"; /* Unicode for minus*/
 }
 
 .ytvideo{
@@ -177,6 +177,4 @@ margin-top: 42px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /* Optionally, you can set a max-width if needed */
-    /* max-width: 100%; */
 }
