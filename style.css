@@ -154,6 +154,10 @@ margin-top: 42px;
     line-height: 2;
     color: #221e20;
   }
+  .studierejsebox a{
+    text-decoration: none;
+    color: #000000;
+  }
 .srboximg {
     width: 100%;
     height: auto;
