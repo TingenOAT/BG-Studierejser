@@ -96,44 +96,31 @@ margin-top: 42px;
     margin-right: 24px;
     margin-top: 100px;
 }
-.tablepicture {
-    border: 2px solid #f3e5e5;
-    border-radius: 15px;
-    background-color: #f3e5e5;
-    margin-top: 15px;
-    overflow: hidden;
-    height: 700px;
-    margin-bottom: 0;}
- .tabletext {
-    border: 2px solid #f3e5e5;
+
+.studierejseboxes { display: flex;
+    justify-content: center;
+    align-items: stretch;
+    margin: 20px;
+    margin-top: 200px;
+    
+}
+.studierejsebox {
+    flex: 1;
+    margin: 0 10px;
+    border: 2px solid #ededed;
     border-radius: 10px;
-    background-color: white;
-    font-size: 20px;
-    color: #333;
-    margin-top: 0px;
-    text-align: left;}   
-   
-.rejsepic {
-    width: 70%;
+    padding: 20px;
+    text-align: center;
+    background-color: #ededed;
+    max-width: 33%;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 2;
+    color: #221e20;
+  }
+.srboximg {
+    width: 100%;
     height: auto;
-    max-width: 1000px;
-    max-height: 1000px;
-    float: center;
-    margin-right: 10px;
-    padding: none;
-}
-.text-wrapper {
-    width: 300px;
-    word-wrap: break-word;
-    text-align: left;
-    padding: 5px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-}
-table {
-    border-collapse: separate;
-    border-spacing: 15px;
-    max-width: 600px;
-    margin-left: 200px;
-    margin-right: 200px;
+    max-width: 100%;
+    border-radius: 10px;
 }
