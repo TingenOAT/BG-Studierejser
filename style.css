@@ -103,6 +103,10 @@ margin-top: 42px;
   padding-right: 30px;
   padding-bottom: 30px;
 }
+
+.elevtekst h1{
+    font-weight: bold;
+}
 .elevheader {
     padding-top: 15px;
     padding-left: 30px;
