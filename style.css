@@ -68,9 +68,11 @@ margin-top: 42px;
     color: Black;
     font-size: 16px;
     margin-top: 0;
-    text-align: center;
+    text-align: left;
+    line-height: 2;
     padding: right 50px;
-    margin-right: 24px;
+    margin-right: 200px;
+    margin-left: 200px;
     margin-top: 100px;
 }
 .forside-header {
