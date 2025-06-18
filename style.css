@@ -26,3 +26,12 @@
   align-items: center;
   justify-content: center;
 }
+
+.photo {
+    width: 70%;
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    margin-left:200 px;
+}
