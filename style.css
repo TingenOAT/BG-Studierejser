@@ -103,6 +103,10 @@ margin-top: 42px;
   padding-right: 30px;
   padding-bottom: 30px;
 }
+
+.elevtekst h1{
+    font-weight: bold;
+}
 .elevheader {
     padding-top: 15px;
     padding-left: 30px;
@@ -153,6 +157,10 @@ margin-top: 42px;
     font-weight: bold;
     line-height: 2;
     color: #221e20;
+  }
+  .studierejsebox a{
+    text-decoration: none;
+    color: #000000;
   }
 .srboximg {
     width: 100%;
