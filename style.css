@@ -5,8 +5,7 @@
 .header-hvid {
     float: right;
     color: white;
-    font-size: 15px;
-    font: verdana, sans-serif;
+    font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
     margin-top: 0;
@@ -42,6 +41,16 @@
   z-index: 1000;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
 margin-top: 42px;
+}
+.header-sort {
+    float: center;
+    color: black;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-top: 0;
+    text-align: center;
+    padding: right 50px;
+    margin-right: 24px;
 }
