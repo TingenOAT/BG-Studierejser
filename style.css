@@ -63,3 +63,21 @@ margin-top: 42px;
     padding: right 50px;
     margin-right: 24px;
 }
+.forside-tekst {
+    color: Black;
+    font-size: 16px;
+    margin-top: 0;
+    text-align: center;
+    padding: right 50px;
+    margin-right: 24px;
+    margin-top: 100px;
+}
+.forside-header {
+    color: Black;
+    font-size: 22px;
+    margin-top: 5px;
+    text-align: center;
+    padding: right 50px;
+    margin-right: 24px;
+    margin-top: 100px;
+}
