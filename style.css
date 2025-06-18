@@ -96,8 +96,45 @@ margin-top: 42px;
     margin-right: 24px;
     margin-top: 100px;
 }
+.elevtekst {
+  border: 2px solid #ededed;
+  background-color: #ededed;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+.elevheader {
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    background-color: #ff003d;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.tablepicture {
+    border: 2px solid #f3e5e5;
+    border-radius: 15px;
+    background-color: #f3e5e5;
+    margin-top: 15px;
+    overflow: hidden;
+    height: 700px;
+    margin-bottom: 0;}
+ .tabletext {
+    border: 2px solid #f3e5e5;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #ededed;
+    max-width: 33%;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 2;
+    color: #221e20;
+  }
 
-.studierejseboxes { display: flex;
+  .studierejseboxes { display: flex;
     justify-content: center;
     align-items: stretch;
     margin: 20px;
