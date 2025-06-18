@@ -42,7 +42,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-<<<<<<< HEAD
 }
 
 .photo {
@@ -52,7 +51,6 @@
     margin: 0 auto;
     display: block;
     margin-left:200 px;
-=======
 margin-top: 42px;
 }
 .header-sort {
@@ -64,5 +62,4 @@ margin-top: 42px;
     text-align: center;
     padding: right 50px;
     margin-right: 24px;
->>>>>>> 881be2b3e846c9b23779f41b1e62a44758705c10
 }
